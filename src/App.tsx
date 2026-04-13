@@ -9,7 +9,7 @@ function App() {
     <>
       <BrowserRouter>
             <nav>
-                <Link to="/">Home</Link>
+                <Link to="/">Home</Link> |{" "}
                 <Link to="/reviews">Reviews</Link>
             </nav>
 
